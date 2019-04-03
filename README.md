@@ -1,22 +1,16 @@
-# nuxt-jwt-multiple-authentication-tutorial
+# JWTs and Multiple authentication tutorial using Nuxt.js #
 
-> This example is used on a tutorial 
+## Introduction ##
+This example is the result of the tutorial [JWTs and Multiple authentication tutorial using Nuxt.js](https://www.matt-grech.com/blog/nuxt-jwt-multiple-authentication-tutorial).
 
-## Build Setup
-
-``` bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
+## Setup ##
+```bash
+git clone https://github.com/matt-grech/nuxt-jwt-multiple-authentication-tutorial.git
+cd nuxt-jwt-multiple-authentication-tutorial
+npm install && npm run dev
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+## Available URLs ##
+- `/user-login` - user login page.
+- `/supplier-login` - supplier login page.
+
