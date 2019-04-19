@@ -1,7 +1,7 @@
-# JWTs and Multiple authentication tutorial using Nuxt.js #
+# Multiple login JWT tutorial for Nuxt.js #
 
 ## Introduction ##
-This example is the result of the tutorial [JWTs and Multiple authentication tutorial using Nuxt.js](https://www.matt-grech.com/blog/nuxt-jwt-multiple-authentication-tutorial).
+This example is the result of the tutorial [Multiple login JWT tutorial for Nuxt.js](https://www.matt-grech.com/blog/multiple-login-jwt-tutorial-for-nuxt-js/).
 
 ## Setup ##
 ```bash
